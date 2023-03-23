@@ -41,3 +41,9 @@
 
 5) Haga un programa que utilice una función para calcular el valor de un préstamo Cusando interés compuesto del ipor nmeses.
 
+
+![Punto 5, reto 6](https://user-images.githubusercontent.com/124641609/227372561-5a04a846-5abf-4d02-9bdb-5740745f15c5.JPG)
+
+---
+
+6)  El número de contagiados de Covid-19 en el país de NuncaLandia se duplica cada día. Hacer un programa que diga el número total de personas que se han contagiado cuando pasen D días a partir de hoy, si el número de contagiados actuales es C.
