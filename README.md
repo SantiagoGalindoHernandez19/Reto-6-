@@ -8,4 +8,7 @@
 
 -Revise como utilizar el valor de piusando import math y math.pi
 
+![Punto 1, reto 6](https://user-images.githubusercontent.com/124641609/227326121-cc970f3c-ac2e-4494-a1b1-baf2eb6f8283.JPG)
+
+
 
