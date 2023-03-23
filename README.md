@@ -28,4 +28,16 @@
 3) Diseñe una función que calcule la cantidad de carne de aves en kilos si se tienen N gallinas, M gallos y K pollitos cada uno pesando 6 kilos, 7 kilos y 1 kilo respectivamente.
 
 
+![Punto 3, reto #6](https://user-images.githubusercontent.com/124641609/227364472-c006a0cf-d659-4f5f-a242-1fd3d23619be.JPG)
+
+---
+
+
+4) Mi mamá me manda a comprar P panes a 300 cada uno, M bolsas de leche a 3300 cada una y H huevos a 350 cada uno. Hacer un programa que me diga las vueltas (o lo que quedo debiendo) cuando me da un billete de B pesos.
+
+![Punto 4, reto 6](https://user-images.githubusercontent.com/124641609/227369047-09ce5ae4-74d8-481a-9dc3-b85ee3185237.JPG)
+
+---
+
+5) Haga un programa que utilice una función para calcular el valor de un préstamo Cusando interés compuesto del ipor nmeses.
 
