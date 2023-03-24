@@ -118,4 +118,6 @@ informacion sacada de: https://docs.python.org/es/3/installing/index.html#:~:tex
 -TensorFlow
 
 
+---
 
+Bueno eso fue todo muchas gracias por leer
