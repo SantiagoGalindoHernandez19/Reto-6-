@@ -67,3 +67,55 @@
 
 -La raíz cúbica del menor número
 
+
+![Punto 7, reto # 6](https://user-images.githubusercontent.com/124641609/227392456-941fcd9a-6ade-4feb-b043-904e47c9bc00.JPG)
+
+
+![punto 7, reto #6 2](https://user-images.githubusercontent.com/124641609/227392557-a22288f9-ae58-4384-b364-7923e45cf8f4.JPG)
+
+
+![punto 7, reto # 6 4](https://user-images.githubusercontent.com/124641609/227392714-df76702a-8d06-400a-a9d8-9a4f7fd54561.JPG)
+
+---
+
+8) Para el punto anterior incluir las funciones en un archivo independiente e importarlas para su uso.
+
+
+![Funciones](https://user-images.githubusercontent.com/124641609/227395849-898a5262-005a-4100-a0ca-52cdfecfb0cf.JPG)
+
+---
+
+
+9)Consulte qué es y cómo funciona pip en python
+
+pip es el programa de instalación preferido. Desde Python 3.4 viene incluido por defecto con los instaladores binarios de Python. Un entorno virtual es un entorno de Python parcialmente aislado que permite instalar paquetes para que los use una aplicación en particular, en lugar de instalarlos en todo el sistema.
+
+informacion sacada de: https://docs.python.org/es/3/installing/index.html#:~:text=pip%20es%20el%20programa%20de,instalarlos%20en%20todo%20el%20sistema.
+
+---
+
+
+10) Hacer un listado de módulos populares para python que se pueden instalar com pip y consultar cómo instalarlos.
+
+-SciPy
+
+-Eli5
+
+-PyTorch
+
+-LightGBM
+
+-Theano
+
+-Pandas
+
+-Keras
+
+-Numpy
+
+-Scikit-Learn
+
+-TensorFlow
+
+
+
